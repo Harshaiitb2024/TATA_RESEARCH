@@ -1,4 +1,4 @@
-NST_PROG_TESTING.ipynb --------> converting npz file to image using SNT renderer
+NST_PROG_TESTING.ipynb --------> converting npz file to image using SNT renderer //
 json2npz.py  -----------> converting JSON to .npz format
           steps to run this file:
                 1. clone to this repo TATA_RESEARCH
