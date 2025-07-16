@@ -1,5 +1,7 @@
 NST_PROG_TESTING.ipynb --------> testing  SNT renderer (prog_renderer.npz is a npz extracted from test image, it is alredy available in repo, or we can feed any npz file with knowledge of no of strokes)
 
+NPZ_OPTIMIZER.ipynb ----------> testing renderer with npz file and then optimize to get clear image
+
 json2npz.py  -----------> converting JSON to .npz format
           steps to run this file:
                 1. clone to this repo TATA_RESEARCH
